@@ -1,8 +1,3 @@
-/*
- *  hash-map-linear-probing.c - Daniel "bodom_lx" Graziotin <http://daniel.graziotin.net>
- *      An implementation in C of search and insertion operations for a hash table with linear probing
- *  compile with: gcc -lm hash-map-linear-probing.c
- */
 
 #include<stdio.h>
 #include <stdlib.h>
